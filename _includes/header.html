@@ -113,7 +113,8 @@
       {%- endif -%}
       {%- if site.phone -%}
         <p>
-          {{ site.phone_title | default: "Phone" }}: {{ site.phone | escape }}
+			{% capture phone%}{{site.phone}}{%endcapture%}
+			{{ site.phone_title | default: "Phone" }}: {{ phone | escape }}
         </p>
       {%- endif -%}
       {%- if site.website -%}

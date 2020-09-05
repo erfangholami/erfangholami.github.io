@@ -3,35 +3,35 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Erfan Gholami
+title: Computer Engineer
+email: erfangholami76@gmail.com
+phone: +989187888582
+# website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+twitter_username: _erfan_g
+github_username:  erfangholami
+stackoverflow_username: "5599774"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: erfan-gholami
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+- title: Spotify
+  icon: fa-spotify
+  url: https://open.spotify.com/user/_erfan_g
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,24 +44,33 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+# about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a Computer Engineer who loves thinking about solutions for daily problems, especially computer ones. I have been experienced many fields in the computer world, such as robotics, hardware design, and software development. My main focus is software development, specifically in the Android framework, but I have an open attitude about involving in other aspects of computer fields. Because having multi-dimensional thinking helps to overcome the problems more straightforward and in a reasonable time. 
+  
+  My personality type is INTJ, I’m eager to learn new things, and I have the spirit of working with small teams or alone.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  I enjoy searching in other people codes, hiking, traveling, hanging around with friends, analayse political events, listing to music and etc 😊
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+# You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education #(Use this to override about education section title)
+
+abilities_title: Abilities
+
+# Projects Section
+projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+experience_title: Experience #(Use this to override about experience section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
