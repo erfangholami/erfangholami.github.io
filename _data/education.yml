@@ -1,9 +1,15 @@
-# Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Shahid Beheshti University
+  dates: 2015 - 2020
+  qualification: BA Computer Enginnering 
+  quote: Short 
+  description: | 
+
+
+- layout: left
+  name: Shahid Beheshti Highschool (Sampad)
+  dates: 2011 - 2015
+  qualification: Diploma in Mathematics and Physics discipline
+  quote: Short 
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+     Description 

@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Erfan Gholami
 title: Computer Engineer
 email: erfangholami76@gmail.com
-phone: +989187888582
+phone: (+98)918 788 8582
 # website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
@@ -52,6 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
   My personality type is INTJ, I’m eager to learn new things, and I have the spirit of working with small teams or alone.
 
   I enjoy searching in other people codes, hiking, traveling, hanging around with friends, analayse political events, listing to music and etc 😊
+
+  You can access latest version of my CV <a href="https://docs.google.com/viewer?url=http://erfangholami.github.io/extra/ErfanGholamiCV.pdf" target="_blank" type="application/pdf">here.</a>
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 

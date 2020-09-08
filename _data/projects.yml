@@ -7,3 +7,10 @@
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
+  images-array:
+    - image: profile.jpg
+      alt: This is some alt text
+    - image: profile.jpg
+      alt: This is some alt text
+    - image: profile.jpg
+      alt: This is some alt text
