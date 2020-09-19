@@ -1,16 +1,13 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: Mobile @Work Robot
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-  images-array:
-    - image: profile.jpg
-      alt: This is some alt text
-    - image: profile.jpg
-      alt: This is some alt text
-    - image: profile.jpg
-      alt: This is some alt text
+    This Robot is the first version of a two-version mobile at work robot, which can identify objects via camera and catch the moving object and place it in the right position. This Robot was built to help depot objects.
+    Here is a short video of what we have done.                       
+  youtube: https://www.youtube.com/embed/ygSOpZgD2VM
+
+
+- layout: top-middle
+  name: 
+  description: | # this will include new lines to allow paragraphs
+    UNDER CONSTRUCTION ...

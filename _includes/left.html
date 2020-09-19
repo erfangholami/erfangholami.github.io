@@ -25,5 +25,9 @@
       <p class="quote">{{ include.item.quote }}</p>
     {%- endif -%}
     {{ include.item.description | strip | markdownify }}
+
+    {% for photo in include.item.youtube %}
+        <iframe width="853" height="480" src="{{include.item.youtube}}"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+    {% endfor %}
   </div>
 </div>

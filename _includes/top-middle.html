@@ -29,5 +29,10 @@
     {% for photo in include.item.images-array %}
         <img class="img-responsive" src="images/{{ photo.image }}" alt="{{ photo.alt }}">
     {% endfor %}
+
+    {% for photo in include.item.youtube %}
+        <iframe width="853" height="480" src="{{include.item.youtube}}"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+    {% endfor %}
+
   </div>
 </div>
