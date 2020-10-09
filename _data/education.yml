@@ -4,8 +4,9 @@
   qualification: Shahid Beheshti University
   quote: 
   description: |
-    - Thesis: "Implementation of Efficient Subgraph Matching Harmonizing Dynamic Programming, Adaptive matching order, and Failing set together (DAF, see  <a href="https://dl.acm.org/ft_gateway.cfm?id=3319880&type=pdf" target="_blank" type="application/pdf">paper</a> ) algorithm in Apache Spark"  supervised by Dr. Hasan Haghighi
     - Ranked within the top 6 universities in Iran according to  <a href="https://www.timeshighereducation.com/world-university-rankings/shahid-beheshti-university" target="_blank" type="application/pdf">The World University Ranking 2020</a>
+    - Thesis: "Implementation of Efficient Subgraph Matching Harmonizing Dynamic Programming, Adaptive matching order, and Failing set together (DAF, see  <a href="https://dl.acm.org/ft_gateway.cfm?id=3319880&type=pdf" target="_blank" type="application/pdf">paper</a> ) algorithm in Apache Spark"  supervised by Dr. Hasan Haghighi
+    
 
 
 - layout: left

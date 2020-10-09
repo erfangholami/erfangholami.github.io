@@ -3,3 +3,20 @@
 ---
 
 @import 'modern-resume-theme';
+
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 4%;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+}

@@ -1,10 +1,20 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: Tehran Internet 
+  link: tehraninternet.co.ir/index-en
+  job_title: Senior Android Engineer
+  dates: December 2018 - September 2020
+  quote: 
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - In this position, I was responsible for designing and implementing Android applications for the e-commerce business. I was a member of a team that included developers, designers, project managers, and business managers.
+    - We launched two Android applications; Hamoon and Eways. I helped the company reach a real solution for its b2b android app, and it is ready for release. Also, I helped the team to finish the Hamoon app that satisfies business demands completely.
+
+- layout: left
+  company: Kanda Idea
+  link: kandaidea.com/
+  job_title: Android Developer
+  dates: April 2018 - October 2018
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    - In this position, I was responsible for maintaining and developing Android applications for the company's business partners. I was a memeber of a team that included developers, project managers, and business managers, but my main interactions were back-end developers and DB manager.
+    - The first two months were internship, and I completed my first industry project in this period. I helped the company finish two remain and incomplete projects.

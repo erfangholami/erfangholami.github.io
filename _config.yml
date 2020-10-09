@@ -51,8 +51,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   My personality type is INTJ, I’m eager to learn new things, and I have the spirit of working with small teams or alone.
 
-  I enjoy searching in other people's codes, hiking, traveling, hanging around with friends, analyzing political events, listening to music and etc 😊
-
   You can access latest version of my CV <a href="https://docs.google.com/viewer?url=http://erfangholami.github.io/extra/ErfanGholamiCV.pdf" target="_blank" type="application/pdf">here.</a>
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
@@ -77,9 +75,7 @@ experience_title: Experience #(Use this to override about experience section tit
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  I enjoy searching in other people's codes, hiking, traveling, hanging around with friends, analyzing political events, listening to music and etc 😊
 
 # Footer
 footer_show_references: true
