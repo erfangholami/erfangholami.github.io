@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: assets/favicon.png
 
 # Personal info
 name: Erfan Gholami
@@ -47,11 +47,11 @@ additional_links:
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Computer Engineer who loves thinking about solutions for daily problems, especially computer ones. I have been experienced many fields in the computer world, such as robotics, hardware design, and software development. My main focus is software development, specifically in the Android framework, but I have an open attitude about involving in other aspects of computer fields. Because having multi-dimensional thinking helps to overcome the problems more straightforward and in a reasonable time. 
+  I am a Computer Engineer who loves thinking about solutions for daily problems, especially computer ones. I have been experienced many fields in the computer world, such as software development, robotics and hardware design. My main focus is software development, specifically in the Android framework, but I have an open attitude about involving in other aspects of computer fields. Because having multi-dimensional thinking helps to overcome the problems more straightforward and in a reasonable time. 
   
   My personality type is INTJ, I’m eager to learn new things, and I have the spirit of working with small teams or alone.
 
-  You can access latest version of my CV <a href="https://docs.google.com/viewer?url=http://erfangholami.github.io/extra/ErfanGholamiCV.pdf" target="_blank" type="application/pdf">here.</a>
+  You can access latest version of my CV <a href="https://docs.google.com/viewer?url=http://erfangholami.github.io/extra/ErfanGholamiCV.pdf" target="_blank" type="application/pdf">here</a>.
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -75,7 +75,7 @@ experience_title: Experience #(Use this to override about experience section tit
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  I enjoy searching in other people's codes, hiking, traveling, hanging around with friends, analyzing political events, listening to music and etc 😊
+  I enjoy searching in other people's codes, hiking, traveling, hanging around with friends, analyzing political events, listening to music and etc. 😊
 
 # Footer
 footer_show_references: true
