@@ -1,15 +1,17 @@
 - layout: left
-  name: Shahid Beheshti University
+  name: B.S. in Computer Enginnering 
   dates: 2015 - 2020
-  qualification: BA Computer Enginnering 
-  quote: Short 
-  description: | 
+  qualification: Shahid Beheshti University
+  quote: 
+  description: |
+    - Thesis: "Implementation of Efficient Subgraph Matching Harmonizing Dynamic Programming, Adaptive matching order, and Failing set together (DAF, see  <a href="https://dl.acm.org/ft_gateway.cfm?id=3319880&type=pdf" target="_blank" type="application/pdf">paper</a> ) algorithm in Apache Spark"  supervised by Dr. Hasan Haghighi
+    - Ranked within the top 6 universities in Iran according to  <a href="https://www.timeshighereducation.com/world-university-rankings/shahid-beheshti-university" target="_blank" type="application/pdf">The World University Ranking 2020</a>
 
 
 - layout: left
-  name: Shahid Beheshti Highschool (Sampad)
+  name: Diploma in Mathematics and Physics discipline
   dates: 2011 - 2015
-  qualification: Diploma in Mathematics and Physics discipline
-  quote: Short 
+  qualification: Shahid Beheshti Highschool (Sampad)
+  quote: 
   description: | # this will include new lines to allow paragraphs
-     Description 
+    - Affiliated with the National Organization for the Development of Exceptional Talents (NODET)

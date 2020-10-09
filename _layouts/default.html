@@ -5,45 +5,50 @@
 
 <body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
 
-  {%- include header.html -%}
+    {%- include header.html -%}
 
-  <main class="page-content" aria-label="Content">
+    <main class="page-content" aria-label="Content">
     <div class="wrapper">
 
-      {%- if jekyll.environment == 'production' and site.gtm -%}
+        {%- if jekyll.environment == 'production' and site.gtm -%}
         {%- include gtm_body.html -%}
-      {%- endif -%}
+        {%- endif -%}
 
-      {%- include about.html -%}
+        <!-- About Me-->
+        {%- include about.html -%}
 
-
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
-      {%- endif -%}
-<!-- 
-      {%- if site.data.education.size > 0 -%}
+        <!-- Education-->
+        {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
-      {%- endif -%}
+        {%- endif -%}
 
-      {%- if site.data.experience.size > 0 -%}
+        <!-- Experince-->
+        {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
-      {%- endif -%}
+        {%- endif -%}
 
-      {%- if site.data.abilities.size > 0 -%}
+        <!-- Projects-->
+        {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+        {%- endif -%}
+
+        <!-- Skills-->
+        {%- if site.data.abilities.size > 0 -%}
         {%- include abilities.html -%}
-      {%- endif -%}
+        {%- endif -%}
 
-      {%- if site.more_content -%}
+        <!-- More about me-->
+        {%- if site.more_content -%}
         {%- include more.html -%}
-      {%- endif -%} -->
+        {%- endif -%}
 
     </div>
-  </main>
+    </main>
 
-  {%- include footer.html -%}
-  {% if site.darkmode == false %}
+    {%- include footer.html -%}
+    {% if site.darkmode == false %}
     <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
-  {% endif %}
+    {% endif %}
 </body>
 
 </html>
