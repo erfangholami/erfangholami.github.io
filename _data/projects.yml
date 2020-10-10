@@ -16,7 +16,7 @@
   description: | # this will include new lines to allow paragraphs
     This Robot is the second version of a two-version mobile at work robot, which can identify objects via camera and catch the moving object and place it in the right position. This Robot was built to help depoting objects.
     Here is a short video of what we have done.                       
-  youtube: https://youtu.be/7hcjavu2HdQ
+  youtube: https://www.youtube.com/embed/7hcjavu2HdQ
 
 - layout: left
   name: 
