@@ -13,6 +13,7 @@ phone: (+98)918 788 8582
 darkmode: false
 
 # Social links
+skype_username: ke2IZJW1mfP9
 twitter_username: _erfan_g
 github_username:  erfangholami
 stackoverflow_username: "5599774"
@@ -91,17 +92,6 @@ sass:
 plugins:
  - jekyll-seo-tag
  
-defaults:
-  -
-    scope:
-      path: "_slides" 
-    values:
-      layout: "iframe"
-
-collections:
-  slides:
-    output: true
-
 
 exclude : [
   "Gemfile",
