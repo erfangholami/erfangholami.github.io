@@ -1,5 +1,34 @@
 # Project template
 - layout: left
+  name: Eways Android Application
+  job_title: Tehran Internet's project
+  dates: 2019 - 2020
+  slideshowId: cp_widget_ef09c4ee-a75b-47e2-8c94-e0311749e615
+  slideshowFId: AkGAAs-7xaeo
+  description: | # this will include new lines to allow paragraphs
+    Eways is an Android application that helps small businesses from all around Iran access the newest electronic gadgets and their accessories and online services at the lowest price.
+    - As a development team member, I was responsible for design application architecture, developing, and maintaining the app.
+    - This app uses the MVVM architecture, Google architecture components, Dagger for dependency injection, RxJava and Coroutine for threading, and other newest methods and technologies. The development languages were Java and Kotlin together. Also, we had unit and integration tests to make bugs minimum before release.
+    - One of the most significant challenges we faced during the whole process was the complication of architecture design because of having different version types and the number.
+    
+    Here are some screenshots of this application:
+
+
+- layout: left
+  name: Hamoon Android Application
+  job_title: Tehran Internet's project
+  dates: 2018 - 2019
+  slideshowId: cp_widget_d70996ed-541e-42ac-8ef8-4e05227c9994
+  slideshowFId: AUIABteDx2Ul
+  description: | # this will include new lines to allow paragraphs
+    Hamoon (780) is an Android application that provides online services like buying Sim-card charges or internet packages, helping charities, etc.
+    - As a development team member, I was responsible for developing and maintaining the app.
+    - This application uses quite different architecture in comparison with other ones. We have developed a core with separate services (micro-services) in different layers . We have a customized XML parser to implement new rules. Also, all UI pages can be controlled over a simple back-end operator and without any new release, and users can see changes immediately without any app update.
+    - Java is the primary language used in this app, and all UI elements are designed and implemented from scratch.
+    
+    Here are some screenshots of this application:
+
+- layout: left
   name: Mobile @Work Robot
   job_title: Natonal Work Skills
   dates: 2016
@@ -13,31 +42,9 @@
   job_title: Internation Work Skills selection stage
   dates: 2017
   description: | # this will include new lines to allow paragraphs
-    This Robot is the second version of a two-version mobile at work robot, which can identify objects via camera and catch the moving object and place it in the right position. This Robot was built to help depoting objects.
-    Here is a short video of what we have done.                       
+    This robot is a newer version of the previous one. We update the front arm, and now it can hold a billiard ball too. Also, we added a human-like arm in the back, and it's useful when we want to catch objects without a pallet. Writing the control unit program for the new arm was challenging because of its weight and cinematic. We updated image processing functionality, and now it can detect numbers and different kinds of barcodes. The below video shows a test for detecting barcodes, colors and numbers and new arm functionality.                      
   youtube: https://www.youtube.com/embed/7hcjavu2HdQ
 
-- layout: left
-  name: Hamoon 
-  job_title: Tehran Internet's project
-  dates: 2018 - 2019
-  slideshowId: cp_widget_d70996ed-541e-42ac-8ef8-4e05227c9994
-  slideshowFId: AUIABteDx2Ul
-  description: | # this will include new lines to allow paragraphs
-    Hamoon (780) is an Android application that provides online services like buying Sim-card charges or internet packages, helping charities, etc.
-    - As a development team member, I was responsible for developing and maintaining the app.
-    - This application uses quite different architecture in comparison with other ones. We have developed a core with separate services (micro-services) in different layers . We have a customized XML parser to implement new rules. Also, all UI pages can be controlled over a simple back-end operator and without any new release, and users can see changes immediately without any app update.
-    - Java is the primary language used in this app, and all UI elements are designed and implemented from scratch.
+
   
 
-- layout: left
-  name: Eways Android Application
-  job_title: Tehran Internet's project
-  dates: 2019 - 2020
-  slideshowId: cp_widget_ef09c4ee-a75b-47e2-8c94-e0311749e615
-  slideshowFId: AkGAAs-7xaeo
-  description: | # this will include new lines to allow paragraphs
-    Eways is an Android application that helps small businesses from all around Iran access the newest electronic gadgets and their accessories and online services at the lowest price.
-    - As a development team member, I was responsible for design application architecture, developing, and maintaining the app.
-    - This app uses the MVVM architecture, Google architecture components, Dagger for dependency injection, RxJava and Coroutine for threading, and other newest methods and technologies. The development languages were Java and Kotlin together. Also, we had unit and integration tests to make bugs minimum before release.
-    - One of the most significant challenges we faced during the whole process was the complication of architecture design because of having different version types and the number
