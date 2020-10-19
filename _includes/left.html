@@ -31,5 +31,12 @@
             <iframe  src="{{include.item.youtube}}"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
         </div>
     {% endfor %}
+
+    {%- if include.item.slideshow -%}
+
+        <iframe class="slideshow-iframe" src="{{ include.item.slideshow }}"
+            style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
+
+    {%- endif -%}
   </div>
 </div>

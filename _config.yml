@@ -90,6 +90,18 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ 
+defaults:
+  -
+    scope:
+      path: "_slides" 
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true
+
 
 exclude : [
   "Gemfile",
