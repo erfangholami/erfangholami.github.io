@@ -1,5 +1,5 @@
 # Project template
-- layout: left
+- layout: project_left
   name: Eways Android Application
   job_title: Tehran Internet's project
   dates: 2019 - 2020
@@ -14,7 +14,7 @@
     Here are some screenshots of this application:
 
 
-- layout: left
+- layout: project_left
   name: Hamoon Android Application
   job_title: Tehran Internet's project
   dates: 2018 - 2019
@@ -28,18 +28,18 @@
     
     Here are some screenshots of this application:
 
-- layout: left
+- layout: project_left
   name: Mobile @Work Robot
-  job_title: Natonal Work Skills
+  job_title: National Work Skills
   dates: 2016
   description: | # this will include new lines to allow paragraphs
     This is an @work robot that can be helpful in storehouses, and we build it for Iran's national work skills competition. It can detect objects by their barcode color and then catch the item, even if it is moving, and then transfer to a dedicated place. A 4-member team handled this project, and my responsibilities were programming for both software and hardware and syncing electronic devices with software core. We used C++ as the primary programming language, OpenCV for image processing, Arduino for processing sensors data, and other technologies that can be found in the below video. This video is just a brief of functionality and a test scenario.                  
   youtube: https://www.youtube.com/embed/ygSOpZgD2VM
 
 
-- layout: left
+- layout: project_left
   name: Mobile @Work Robot
-  job_title: Internation Work Skills selection stage
+  job_title: International Work Skills selection stage
   dates: 2017
   description: | # this will include new lines to allow paragraphs
     This robot is a newer version of the previous one. We update the front arm, and now it can hold a billiard ball too. Also, we added a human-like arm in the back, and it's useful when we want to catch objects without a pallet. Writing the control unit program for the new arm was challenging because of its weight and cinematic. We updated image processing functionality, and now it can detect numbers and different kinds of barcodes. The below video shows a test for detecting barcodes, colors and numbers and new arm functionality.                      
