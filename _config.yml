@@ -78,6 +78,11 @@ experience_title: Experience #(Use this to override about experience section tit
 more_content: | # this will include new lines to allow paragraphs
   I enjoy searching in other people's codes, hiking, traveling, hanging around with friends, analyzing political events, listening to music and etc. 😊
 
+  Here are some photos of my travels :)
+
+more_content_slideshowId: cp_widget_d9a78f74-fc02-4d29-a32b-6f7d1c1cae5b 
+more_content_slideshowFId: AEDAcuO4HDZq
+  
 # Footer
 footer_show_references: true
 

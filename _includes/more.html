@@ -2,7 +2,18 @@
   <h3>{{ site.more_title | default: "A Little More About Me" }}</h3>
   <div class="row clearfix">
     <div class="col-md-12">
-      {{ site.more_content | strip | markdownify }}
+        {{ site.more_content | strip | markdownify }}
+        {%- if site.more_content | strip | markdownify -%}
+
+            <div id="cp_widget_d9a78f74-fc02-4d29-a32b-6f7d1c1cae5b">...</div><script type="text/javascript">
+                var cpo = []; cpo["_object"] ="cp_widget_d9a78f74-fc02-4d29-a32b-6f7d1c1cae5b"; cpo["_fid"] = "AEDAcuO4HDZq";
+                var _cpmp = _cpmp || []; _cpmp.push(cpo);
+                (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+                cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+                var c = document.getElementsByTagName("script")[0];
+                c.parentNode.insertBefore(cp, c); })(); </script>
+
+        {%- endif -%}
     </div>
   </div>
 </div>
