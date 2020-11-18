@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   My personality type is INTJ, I’m eager to learn new things, and I have the spirit of working with small teams or alone.
 
-  You can access latest version of my CV <a href="https://docs.google.com/viewer?url=http://erfangholami.github.io/extra/ErfanGholamiCV.pdf" target="_blank" type="application/pdf">here</a>.
+#  You can access latest version of my CV <a href="https://docs.google.com/viewer?url=http://erfangholami.github.io/extra/ErfanGholamiCV.pdf" target="_blank" type="application/pdf">here</a>.
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
